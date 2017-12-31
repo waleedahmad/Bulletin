@@ -1,24 +1,16 @@
-html,body{
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+html{
   height: 100%;
-  width: 100%;
-  overflow : auto;
 }
 body{
+  height: auto;
+  width: auto;
   margin: 0px;
+  overflow : auto;
+  font-family: 'Cabin', sans-serif;
 }
 
+@import "global";
+@import "editor";
+@import "gridster";
 
-ul, li{
-  list-style: none;
-  margin: 0px;
-  padding: 0px;
-}
-
-.gridster{
-  width: 1200px;
-  margin: 0px auto;
-}
-
-.gridster ul li{
-  background-color:grey;
-}

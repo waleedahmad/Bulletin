@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,SAAS,CACP,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,IAAI,CACX,QAAQ,CAAG,IAAI,CAEjB,IAAI,CACF,MAAM,CAAE,GAAG,CAIb,KAAM,CACJ,UAAU,CAAE,IAAI,CAChB,MAAM,CAAE,GAAG,CACX,OAAO,CAAE,GAAG,CAGd,SAAS,CACP,KAAK,CAAE,MAAM,CACb,MAAM,CAAE,QAAQ,CAGlB,eAAe,CACb,gBAAgB,CAAC,IAAI",
-"sources": ["../../../resources/assets/sass/app.scss"],
-"names": [],
-"file": "app.min.css"
-}

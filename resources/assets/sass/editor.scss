@@ -1,0 +1,22 @@
+.board-editor{
+  z-index: 10;
+  margin-top: 50px;
+  position: absolute;
+  background-color:white;
+  padding: 5px;
+
+  span{
+    display: block;
+
+    .glyphicon{
+      cursor: pointer;
+      font-size: 25px;
+      padding: 10px;
+      margin: 0px;
+      &:hover{
+        background-color: #4c5866;
+        color:white;
+      }
+    }
+  }
+}
